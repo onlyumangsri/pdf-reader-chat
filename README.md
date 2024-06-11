@@ -19,13 +19,13 @@ This application allows users to perform question answering on PDF files. Users 
 1. Clone this repository:
 
     ```bash
-    git clone [<repository-url>](https://github.com/onlyumangsri/pdf-reader-chat.git)
+    git clone https://github.com/onlyumangsri/pdf-reader-chat.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd <project-directory>
+    cd <to-your-project-directory>
     ```
 
 3. Build the Docker image:
