@@ -1,0 +1,12 @@
+langchain
+openai
+chromadb
+pypdf
+panel
+notebook
+typer==0.9.0
+spacy
+weasel
+langchain_community
+tiktoken
+langchain_openai
