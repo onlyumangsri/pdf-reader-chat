@@ -19,7 +19,7 @@ This application allows users to perform question answering on PDF files. Users 
 1. Clone this repository:
 
     ```bash
-    git clone <repository-url>
+    git clone [<repository-url>](https://github.com/onlyumangsri/pdf-reader-chat.git)
     ```
 
 2. Navigate to the project directory:
