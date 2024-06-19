@@ -1,5 +1,4 @@
-# PDF Question Answering App
-
+# PDF Question Answering and Slack Notification System
 This application allows users to perform question answering on PDF files. Users can upload a PDF file, input their OpenAI API key, ask questions related to the content of the PDF, and receive answers displayed in the browser.
 
 ## Features
